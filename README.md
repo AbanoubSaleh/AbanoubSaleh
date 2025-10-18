@@ -1,26 +1,21 @@
-<!-- Profile header -->
-<h2 align="center">👋 Hi, I'm <strong>Abanoub Saleh</strong></h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/abanoub-saleh">
-    <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Saleh-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:abanoubsaleh56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abanoubsaleh56%40gmail.com-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://github.com/AbanoubSaleh">
-    <img src="https://img.shields.io/badge/GitHub-AbanoubSaleh-black?style=flat-square&logo=github">
-  </a>
-</p>
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/AbanoubSaleh?v=4" width="140" style="border-radius:50%" alt="Abanoub Saleh Avatar">
+  
+  <!-- Typing effect (motion) -->
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D7&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Abanoub+Saleh;A+.NET+Back-End+Developer;Passionate+About+Clean+Architecture;Open+to+Opportunities+in+Austria+🇦🇹" alt="Typing SVG">
+  </h2>
+</div>
 
 ---
 
 ### 💻 About Me
-I'm a **.NET Back-End Developer** from **Egypt** with **2+ years of experience** building scalable, maintainable systems using  
-**ASP.NET Core**, **Entity Framework Core**, **CQRS**, and **Domain-Driven Design (DDD)**.
+I'm a **.NET Back-End Developer** from **Egypt**, with **2+ years of experience** crafting scalable and maintainable software systems.  
+I love working with **ASP.NET Core**, **Entity Framework Core**, **CQRS**, and **Domain-Driven Design (DDD)** to build reliable, enterprise-grade applications.
 
-🌍 Currently preparing to move to **Austria 🇦🇹** under the **Job Seeker Visa**,  
-open to **backend developer roles** and **remote-to-onsite opportunities** in Europe.
+🌍 Preparing to relocate to **Austria 🇦🇹** under the **Job Seeker Visa**,  
+open to **backend developer roles** and **remote-to-onsite opportunities** across Europe.
 
 ---
 
@@ -41,21 +36,13 @@ open to **backend developer roles** and **remote-to-onsite opportunities** in Eu
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🏥 **NUPCO** | Built scalable microservices for a medical supply system | ASP.NET Core, Kafka, DDD |
-| 💊 **EHealth** | Healthcare asset and pricing management platform | ASP.NET Core, Keycloak, CQRS |
-| ❤️ **Hope** | Social-impact platform for finding missing persons | ASP.NET Core, EF Core, Clean Architecture |
+| 🏥 **NUPCO** | Scalable microservices for a medical supply platform | ASP.NET Core, Kafka, DDD |
+| 💊 **EHealth** | Asset and pricing management for healthcare systems | ASP.NET Core, Keycloak, CQRS |
+| ❤️ **Hope** | Social-impact platform connecting communities to find missing persons | ASP.NET Core, EF Core, Clean Architecture |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubSaleh&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubSaleh&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
-### 🤝 Connect With Me
+### 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/abanoub-saleh">
     <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Saleh-blue?style=for-the-badge&logo=linkedin">
@@ -63,7 +50,10 @@ open to **backend developer roles** and **remote-to-onsite opportunities** in Eu
   <a href="mailto:abanoubsaleh56@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/AbanoubSaleh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/AbanoubSaleh/AbanoubSaleh/blob/main/wave-divider.gif" width="100%" alt="divider animation">
+</div>
