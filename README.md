@@ -16,11 +16,11 @@
 ---
 
 ### 💻 About Me
-I'm a **.NET Back-End Developer** from **Egypt** with **2+ years of experience** building scalable, maintainable systems using  
+I'm a **.NET Back-End Developer** from **Egypt**, with **2+ years of experience** building scalable and maintainable systems using  
 **ASP.NET Core**, **Entity Framework Core**, **CQRS**, and **Domain-Driven Design (DDD)**.
 
-🌍 Currently preparing to move to **Austria 🇦🇹** under the **Job Seeker Visa**,  
-open to **backend developer roles** and **remote-to-onsite opportunities** in Europe.
+I’m passionate about **clean code**, **system design**, and building **high-quality back-end solutions** that make an impact.  
+Open to **backend developer roles** and **remote or onsite opportunities** worldwide.
 
 ---
 
@@ -47,23 +47,12 @@ open to **backend developer roles** and **remote-to-onsite opportunities** in Eu
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbanoubSaleh&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbanoubSaleh&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
-### 🤝 Connect With Me
+### 📫 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/abanoub-saleh">
     <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Saleh-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:abanoubsaleh56@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/AbanoubSaleh">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
