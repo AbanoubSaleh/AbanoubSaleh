@@ -44,15 +44,3 @@ Open to **backend developer roles** and **remote or onsite opportunities** world
 | 🏥 **NUPCO** | Built scalable microservices for a medical supply system | ASP.NET Core, Kafka, DDD |
 | 💊 **EHealth** | Healthcare asset and pricing management platform | ASP.NET Core, Keycloak, CQRS |
 | ❤️ **Hope** | Social-impact platform for finding missing persons | ASP.NET Core, EF Core, Clean Architecture |
-
----
-
-### 📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/abanoub-saleh">
-    <img src="https://img.shields.io/badge/LinkedIn-Abanoub%20Saleh-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:abanoubsaleh56@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
